@@ -18,12 +18,6 @@
   ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
   ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
    
- 
-  # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=arieviloanelym&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=arieviloanelym&theme=dracula&hide_border=false)<br/>
-</div>
- 
 
 <!---
 arieviloanelym/arieviloanelym is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

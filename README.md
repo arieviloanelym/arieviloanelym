@@ -22,9 +22,6 @@
   # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=arieviloanelym&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=arieviloanelym&theme=dracula&hide_border=false)<br/>
-  
- ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
  
 

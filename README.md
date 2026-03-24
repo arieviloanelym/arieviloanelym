@@ -35,6 +35,7 @@ Automação E2E do site Swag Labs utilizando Cypress, validação de login, flux
 Projeto prático de automação de testes de API REST usando Cypress contra a API pública **JSONPlaceholder**.  
 
 🔹 [**Run or Jump**](https://github.com/arieviloanelym/run-or-jump)
+
 Jogo de sobrevivência desenvolvido em **Python** com a biblioteca **Pygame-ce**.
 
 ## Social Media:

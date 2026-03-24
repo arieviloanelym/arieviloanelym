@@ -34,6 +34,9 @@ Automação E2E do site Swag Labs utilizando Cypress, validação de login, flux
 🔹 [**Automação de API com Cypress — JSONPlaceholder**](https://github.com/arieviloanelym/cypress-jsonplaceholder-tests)  
 Projeto prático de automação de testes de API REST usando Cypress contra a API pública **JSONPlaceholder**.  
 
+🔹 [**Run or Jump**](https://github.com/arieviloanelym/run-or-jump)
+Jogo de sobrevivência desenvolvido em **Python** com a biblioteca **Pygame-ce**.
+
 ## Social Media:
 <a href="https://instagram.com/ane_lym" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://discord.gg/uMdRhdxK" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
